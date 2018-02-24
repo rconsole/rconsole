@@ -1,0 +1,6 @@
+[package]
+name = "rconsole"
+version = "0.0.001"
+authors = ["Wiesiek <efekty@gmail.com>"]
+
+[dependencies]
